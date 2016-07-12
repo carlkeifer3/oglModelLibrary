@@ -1,0 +1,21 @@
+﻿Build started 7/12/2016 11:02:30 AM.
+     1>Project "C:\Users\carl\Documents\GitHub\oglModelLibrary\oglModelLibrary\oglModelLibrary.vcxproj" on node 2 (Rebuild target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt 3dMaterials.cpp 3dModels.cpp 3dModelsw.cpp 3dText.cpp GLShader.cpp main.cpp
+         main.cpp
+     1>c:\users\carl\documents\github\oglmodellibrary\oglmodellibrary\glfw_window.hpp(90): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>c:\users\carl\documents\github\oglmodellibrary\oglmodellibrary\main.cpp(103): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+         GLShader.cpp
+         3dText.cpp
+     1>c:\users\carl\documents\github\oglmodellibrary\oglmodellibrary\3dtext.cpp(2): fatal error C1083: Cannot open include file: 'stdafx.h': No such file or directory
+         3dModelsw.cpp
+     1>c:\users\carl\documents\github\oglmodellibrary\oglmodellibrary\3dmodelsw.cpp(3): fatal error C1083: Cannot open include file: 'stdafx.h': No such file or directory
+         3dModels.cpp
+         3dMaterials.cpp
+     1>c:\users\carl\documents\github\oglmodellibrary\oglmodellibrary\3dmaterials.cpp(2): fatal error C1083: Cannot open include file: 'stdafx.h': No such file or directory
+         Generating Code...
+     1>Done Building Project "C:\Users\carl\Documents\GitHub\oglModelLibrary\oglModelLibrary\oglModelLibrary.vcxproj" (Rebuild target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:02.13
